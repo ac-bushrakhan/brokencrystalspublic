@@ -39,7 +39,7 @@
     "@nestjs/graphql": "^12.2.0",
     "@nestjs/mercurius": "^12.2.0",
     "@nestjs/platform-fastify": "^10.4.2",
-    "@nestjs/swagger": "^7.4.1",
+    "@nestjs/swagger": "^11.2.2",
     "@sectester/core": "^0.33.1",
     "@sectester/repeater": "^0.33.1",
     "@sectester/reporter": "^0.33.1",
