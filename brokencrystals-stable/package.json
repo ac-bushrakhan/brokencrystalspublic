@@ -41,7 +41,7 @@
     "@nestjs/platform-fastify": "^10.4.2",
     "@nestjs/swagger": "^7.4.1",
     "@sectester/core": "^0.33.1",
-    "@sectester/repeater": "^0.33.1",
+    "@sectester/repeater": "^0.50.0",
     "@sectester/reporter": "^0.33.1",
     "@sectester/runner": "^0.33.1",
     "@sectester/scan": "^0.33.1",
